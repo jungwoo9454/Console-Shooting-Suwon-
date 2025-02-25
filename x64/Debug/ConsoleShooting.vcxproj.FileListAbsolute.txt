@@ -1,1 +1,2 @@
 C:\Users\User\Desktop\기초코딩 수업 자료\ConsoleShooting-main\x64\Debug\ConsoleShooting.exe
+C:\Users\User\Desktop\기초코딩 수업 자료\ConsoleShooting-main\Console-Shooting-Suwon-\x64\Debug\ConsoleShooting.exe

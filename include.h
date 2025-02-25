@@ -6,6 +6,7 @@
 #include "Player.h"
 #include "Bullet.h"
 #include "Enemy.h"
+#include "Effect.h"
 
 void Init();		// 프로그램 시작할 때 1번 호출, 초기화
 void Update();		// 매 프레임마다 호출
